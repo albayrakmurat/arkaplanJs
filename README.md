@@ -1,3 +1,2 @@
 # js-projesi
-# arkaplanJs
-# arkaplanJs
+
