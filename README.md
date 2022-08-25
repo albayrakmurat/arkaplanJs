@@ -1,6 +1,1 @@
-# js-ile-arkapilan-degistir
-# arkaplan-degistir
-# js
-# js
-# js
-# js
+# js-projesi
