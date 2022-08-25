@@ -6,9 +6,11 @@ const colors = ["#5CFA9B","b#DBBB4B","g#21D145","#FA925C","#59CEF0","#9159F0","#
 
 button.addEventListener("click", changeBackground);
 
+
 function changeBackground() {
-    const secilenRenk = Math.floor(Math.random() * colors.length);
-    const color = colors[secilenRenk];
-    body.style.backgroundColor = color;
+   const randomNumber = Math.floor(Math.random() * colors.length);
+   const color = colors[randomNumber];
+   body.style.backgroundColor = color;
+  
   }
    
